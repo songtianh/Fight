@@ -1,0 +1,76 @@
+
+dazhao.png
+size: 240,776
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 547
+  size: 227, 227
+  orig: 229, 229
+  offset: 1, 1
+  index: -1
+00
+  rotate: false
+  xy: 2, 371
+  size: 174, 174
+  orig: 182, 182
+  offset: 4, 4
+  index: -1
+1
+  rotate: false
+  xy: 163, 16
+  size: 19, 69
+  orig: 21, 76
+  offset: 1, 4
+  index: -1
+2
+  rotate: true
+  xy: 2, 2
+  size: 34, 101
+  orig: 36, 103
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 167, 87
+  size: 54, 149
+  orig: 58, 152
+  offset: 2, 1
+  index: -1
+4
+  rotate: true
+  xy: 2, 139
+  size: 103, 163
+  orig: 106, 165
+  offset: 2, 1
+  index: -1
+5
+  rotate: true
+  xy: 2, 244
+  size: 125, 163
+  orig: 131, 165
+  offset: 5, 1
+  index: -1
+6
+  rotate: true
+  xy: 2, 38
+  size: 99, 159
+  orig: 103, 161
+  offset: 3, 1
+  index: -1
+7
+  rotate: false
+  xy: 167, 238
+  size: 68, 131
+  orig: 71, 135
+  offset: 2, 2
+  index: -1
+8
+  rotate: false
+  xy: 178, 371
+  size: 47, 77
+  orig: 52, 85
+  offset: 4, 4
+  index: -1

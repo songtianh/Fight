@@ -1,0 +1,28 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 1920,
+      "height": 1080,
+      "fitWidth": false,
+      "fitHeight": true
+    }
+  },
+  "layer": [],
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "self"
+      },
+      {
+        "index": 2,
+        "name": "other"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 7,
+      "1": 5,
+      "2": 3
+    }
+  }
+}
